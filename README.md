@@ -1,2 +1,2 @@
 # practice_website
-a website to improve skills on html and css
+a responsive design to the previous one
